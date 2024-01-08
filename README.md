@@ -51,6 +51,9 @@
 <p align="center">
   <img width="70%" src="https://github.com/mobi-community/mobi-2th-book-study/assets/134191817/764ce7ee-c32b-46e7-9087-3ee1b7992b75" />
 </p>
+<p align="center">
+  <a  href="https://docs.google.com/spreadsheets/d/1-7V_po0-FyWRaT8_um9nPkDPbdeEb2qPtAo8PAUI5G8/edit#gid=0">자바스크립트 딥다이브 시트</a>
+</p>
 
 koreaIT에서 강의를 수강하면서 이미 읽은 deepdive 책을 현재 react까지 배운 지금 <br />
 같은 책을 다시 읽으면서 처음에는 이해가 되지 않았던 내용을 전보다 더 잘 이해할 수 있는지, 잊고 있던 내용은 다시 되새겨보는 시간을 가져보는데 의의
